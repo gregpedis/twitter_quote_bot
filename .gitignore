@@ -109,6 +109,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+config.ini
+.vscode/
 
 # Spyder project settings
 .spyderproject
